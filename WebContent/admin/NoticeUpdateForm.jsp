@@ -70,7 +70,7 @@
     </p>
     <br>
      <p>
-      <label class="w3-text"><b>공지시작일</b></label>
+      <label class="w3-text"><b>공지종료일</b></label>
       <input class="w3-input w3-border" name="endDate" id="endDate" type="date" value="${dto.endDate }" required>
     </p>
       <div class="w3-center w3-section">

@@ -134,10 +134,6 @@
 <div>&nbsp;</div>
 
       <div class="w3-row">
-              
-        <div class="w3-bar w3-col m2">
-          <button class="w3-bar-item w3-button btn" onclick="location='NoticeInputForm.jsp'">공지쓰기</button>
-        </div>
 
         <div class="w3-col m2">
           <select class="w3-select w3-border" id ="selec">   			
@@ -147,7 +143,7 @@
        
         </div>
         
-         <div class="w3-col m6">
+         <div class="w3-col m8">
           <input class="w3-input w3-border w3-padding" type="text" placeholder="search" id="myInput" onkeyup="myFunction()">
         </div>
         
